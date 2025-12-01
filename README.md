@@ -1,2 +1,2 @@
-# PHP-Login-Signin-Form
+# PHP-Login-Signin-Form.
 A basic and easy-to-use PHP Login and Sign-In form. It includes simple authentication, clean code, and a straightforward design—perfect for small projects or learning the basics of PHP login systems.
